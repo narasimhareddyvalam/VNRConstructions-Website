@@ -9,5 +9,6 @@ After that,  I have integrated both a video and an audio component.
 Following to the audio and video components, I have included a form featuring a picklist and text input field, along with several headings to ensure a clean and professional appearance. Additionally, I have included a mailto hyperlink and a phone number hyperlink, which will direct the user to their respective mail or phone applications upon clicking.
 I have concluded my webpage with a footer that includes several taglines of my company.
 
-Tags which I used:
+### Tags which I used:
 html lang, html, head, meta charset, title, link rel, style, body, header, nav, details, summary, p, b, br, div, a href, table, tr, th, td, video, audio, form, label, select, option, input type, footer, h1,h3,h4.
+
